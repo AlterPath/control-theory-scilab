@@ -55,3 +55,7 @@ exec("labs/laba1.sci", -1);
 ## License
 
 [MIT](LICENSE)
+
+---
+
+<sub>The code was written from October 2024 to October 2025 and published on GitHub in November 2026. Commit dates follow the dates of the original files; the README and figures were added at publication. The quotes in `labs/laba1.sci` were fixed at the same time.</sub>
